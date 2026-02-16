@@ -1,0 +1,22 @@
+{
+  "inspection_id": "FK_proviene_de_SQL", 
+  "schema_version": "1.0",
+  "data": {
+    "sections": [
+      {
+        "title": "Verificación de Motor",
+        "fields": [
+          { "label": "Presión", "value": 45, "unit": "psi" },
+          { "label": "Estado", "value": "Óptimo" }
+        ]
+      }
+    ],
+    "attachments": [
+      { "type": "image", "url": "storage/img_001.jpg" }
+    ]
+  },
+  "metadata": {
+    "device": "Samsung S24",
+    "sync_date": "2026-02-15T19:25:00Z"
+  }
+}
